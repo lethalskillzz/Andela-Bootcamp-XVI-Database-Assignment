@@ -2,6 +2,7 @@
 
 A simple online shopping database for Andela bootcamp XVI <br>
 
+ <img src="/Andela-Bootcamp-XVI-Database-Assignment.png">
 
 1. Fetch a user with 'username' Ibrahim from 'users' Table.<br>
    SELECT * FROM `users` WHERE `username` = 'Ibrahim' <br>
